@@ -12,5 +12,5 @@ Este projeto é uma API desenvolvida utilizando Django, Django REST Framework e 
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SabrinaSouzaDev/Django-api-Swagger.git
-cd seu-repositorio
+git clone https://github.com/SabrinaSouzaDev/django_projects.git
+cd django_projects

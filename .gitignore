@@ -8,6 +8,9 @@ venv/
 env/
 ENV/
 *.env
+*$novo_venv
+novo_venv
+novo_venv/
 
 # Django stuff:
 *.log

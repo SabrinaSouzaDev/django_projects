@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+*.env
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+
+# Django migrations
+**/migrations/*
+!**/migrations/__init__.py
+
+# VS Code configuration
+.vscode/
+
+# PyCharm configuration
+.idea/
+
+# macOS files
+.DS_Store
+
+# MySQL DB dumps
+*.sql
+
+# Swagger & OpenAPI docs
+*.yaml
+*.yml
+*.json
